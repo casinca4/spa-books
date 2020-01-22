@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/spa-books/static/css/main.5146a36f.chunk.css",
+    "main.js": "/spa-books/static/js/main.d9674254.chunk.js",
+    "main.js.map": "/spa-books/static/js/main.d9674254.chunk.js.map",
+    "runtime-main.js": "/spa-books/static/js/runtime-main.027ebe28.js",
+    "runtime-main.js.map": "/spa-books/static/js/runtime-main.027ebe28.js.map",
+    "static/js/2.bb22ead3.chunk.js": "/spa-books/static/js/2.bb22ead3.chunk.js",
+    "static/js/2.bb22ead3.chunk.js.map": "/spa-books/static/js/2.bb22ead3.chunk.js.map",
+    "index.html": "/spa-books/index.html",
+    "precache-manifest.ef944eda3cca84892ebc71cb9f870b1c.js": "/spa-books/precache-manifest.ef944eda3cca84892ebc71cb9f870b1c.js",
+    "service-worker.js": "/spa-books/service-worker.js",
+    "static/css/main.5146a36f.chunk.css.map": "/spa-books/static/css/main.5146a36f.chunk.css.map",
+    "static/js/2.bb22ead3.chunk.js.LICENSE": "/spa-books/static/js/2.bb22ead3.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.027ebe28.js",
+    "static/js/2.bb22ead3.chunk.js",
+    "static/css/main.5146a36f.chunk.css",
+    "static/js/main.d9674254.chunk.js"
+  ]
+}
