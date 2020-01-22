@@ -13,6 +13,8 @@ class App extends React.Component {
   async componentDidMount() {
     let api_key = process.env.REACT_APP_API_KEY;
     let today = new Date().toISOString().split('T')[0];
+    console.log(today);
+    
     let url = `https://api.nytimes.com/svc/books/v3/lists/overview.json?published_date=${today}&api-key=${api_key}`;
 
     const response = await fetch(url);
